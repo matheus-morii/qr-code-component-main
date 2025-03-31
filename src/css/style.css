@@ -35,6 +35,8 @@ body {
 }
 
 .card .description-card .title-card {
+    color:  hsl(218, 44%, 22%);
+    
     font-size: 20px;
     font-weight: 700;
     margin-top: 20px;
